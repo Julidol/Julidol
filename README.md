@@ -1,4 +1,4 @@
-Hi 👋 I,m Julia Dolzhenko
+Hi 👋 I'm Julia Dolzhenko
 ================================
 
 Junior frontend developer
