@@ -4,7 +4,7 @@ Hi 👋 I,m Julia Dolzhenko
 Junior frontend developer
 -------------------------
 
-* 🌍  I'm based in Rostov-on-Don
+* 🌍  I'm based in Rostov-on-Don, Russia
 * ✉️  You can contact me at [kaomo@yandex.ru](mailto:kaomo@yandex.ru)
 
 ### Skills
