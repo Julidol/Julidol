@@ -1,13 +1,15 @@
 Hello, world 👋 !
 ------------------------
-Hi! I'm Julia Dolzhenko, frontend enthusiast from Russia, living in Rostov-on-Don studying layout design at <a href="https://ru.hexlet.io/u/julidol">Hexlet</a> online school. Currently i'm diving in my first study project.
+🌱 Hi! I'm Julia Dolzhenko, frontend enthusiast from Russia, living in Rostov-on-Don studying layout design at <a href="https://ru.hexlet.io/u/julidol">Hexlet</a> online school. Currently i'm diving in my study project.
 
 🎯 My goal is to expand my knowledge and skills in JS, React to get the new job. I want to create great projects and features with cool visual design adapted for different resolutions and devices.
 
 ✉️  You can contact me at [e-mail](mailto:kaomo@yandex.ru), [telegram](https://t.me/Julidol82)
 
-### Skills
+🙃 My interests is: learning english, running, health diet, discipline, journaling and travel a bit.
 
+
+### Languages and tools
 
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
