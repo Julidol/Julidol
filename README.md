@@ -1,6 +1,6 @@
 Hi 👋 I'm Julia Dolzhenko
 ================================
-Hi! I'm Julia Dolzhenko, frontend enthusiast from Russia, living in Rostov-on-Don studying layout design at [Hexlet]​(https://ru.hexlet.io/julidol) online school. Currently learning Bootstrap library and diving in my first study project.
+Hi! I'm Julia Dolzhenko, frontend enthusiast from Russia, living in Rostov-on-Don studying layout design at <a href="https://ru.hexlet.io/u/julidol">Hexlet</a> online school. Currently learning Bootstrap library and diving in my first study project.
 
 
 -------------------------
