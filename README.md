@@ -2,7 +2,9 @@
 ------------------------
 I'm Julia Dolzhenko, living in Rostov-on-Don, Russia.
 
-✉️  You can contact me at [e-mail](mailto:kaomo@yandex.ru), [telegram](https://t.me/Julidol82) and [gmail](mailto:muzzzafm@gmail.com).
+Contact me:
+ 
+<a href="mailto:kaomo@yandex.ru" target="_blank"><img src="assets/Yandex_Mail_icon.svg" width="24" height="24" alt="kaomo@yandex.ru"></a>   <a href="mailto:muzzzafm@gmail.com" target="_blank"><img src="assets/Gmail_icon_(2020).svg" width="24" height="24" alt="muzzzafm@gmail.com"></a>   <a href="https://t.me/Julidol82" target="_blank"><img src="assets/Telegram_2019_Logo.svg" width="24" height="24" alt="Telegram: Julidol82"></a>
 
 🌱 Student of [Hexlet online school](https://ru.hexlet.io/u/julidol).
 Frontend enthusiast, currently learning layout design and diving in study project.
